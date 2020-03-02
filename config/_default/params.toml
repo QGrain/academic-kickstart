@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Zhiyu Zhang's personal website"
 
 ############################
 ## Site Features
@@ -71,7 +71,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+# edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -81,31 +81,32 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zhiyuzhang@hust.edu.cn"
+email = ""
 phone = "+86-189-7122-9081"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1037 Luoyu Road", city = "Wuhan", region = "Hubei", postcode = "430074", country = "China", country_code = "CN"}
+# address = {street = "1037 Luoyu Road", city = "Wuhan", region = "Hubei", postcode = "430074", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.5091", longitude = "114.4305"}
+# coordinates = {latitude = "30.5091", longitude = "114.4305"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building QiMing and take the elevator to Room 709 on Floor 7"
+# directions = "Enter Building QiMing and take the elevator to Room 709 on Floor 7"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 9:00 to 18:00", "Saturday 09:00 to 18:00"]
+# office_hours = ["Monday 9:00 to 18:00", "Saturday 09:00 to 18:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:zhiyuzhang1999@163.com?call"},
+  {icon = "envelope", icon_pack = "fab", name = "zhiyuzhang@hust.edu.cn", link = "mailto:zhiyuzhang@hust.edu.cn"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -253,7 +254,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
