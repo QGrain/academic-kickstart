@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  This is a national project aiming at the research of Intrusion Detection and Prevention Systems, which covers the techniques of Reverse Engineering, DPDK, **ATT&CK**, Network Traffic Detection and Deep Learning.
+  This is a national project aiming at the research of Intrusion Detection and Prevention Systems, which covers the techniques of Reverse Engineering, DPDK, **ATT&CK**, **Network Traffic Detection** and Deep Learning.
 
   My responsibilities include:
   
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-03"
   date_end = "2019-09-24"
   description = """
-  Inverse problem in structures is to **rebuild** the physical situation of a damaged structure throught the collected data, which covers the techniques of Finite Element Analysis and Deep Learning. In the summer research, we take cantilever as a research target.
+  Inverse problem in structures is to **rebuild** the physical situation of a **damaged structure** throught the collected data. This Smart City project covers the techniques of Finite Element Analysis and Deep Learning and is supervised by [Prof. Shaofan Li](https://ce.berkeley.edu/people/faculty/li). In the summer research, we take cantilever as a research target.
 
   My responsibilities include:
   
@@ -57,6 +57,12 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-12-15"
   description = """
-  
+  This is a Enterprise-level project aiming at providing secure agent service for Samba directory sharing, which covers the techniques of **Windows Driver Development**, Linux Kernel, advanced TCP/IP.
+
+  My responsibilities include:
+
+  * Develop windows network driver according to Microsoft WDK API.
+  * Parse samba 2 protocol to dump the files during the directory sharing.
+  * Improve performance by setting up LVS load balancing servers.
   """
 +++
