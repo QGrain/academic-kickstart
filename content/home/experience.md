@@ -25,27 +25,29 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  This is a
-  Responsibilities include:
+  This is a national project aiming at the research of Intrusion Detection and Prevention Systems, which covers the techniques of Reverse Engineering, DPDK, **ATT&CK**, Network Traffic Detection and Deep Learning.
+
+  My responsibilities include:
   
-  * aaa
-  * bbb
-  * ccc
+  * Design and establish a fast recoverable cyber range for the group. (Paper has been submitted to **ICTC 2020**)
+  * Reverse viruses and figure out their executing priciples for the following detection.
+  * Use Convolutional Neural Network to process binary images of traffic of DDoS, nmap and eternal-blue and detect them under framework of Snort and Security Onion.
   """
 [[experience]]
-  title = "Research Intern of Project: Smart City"
+  title = "Research Intern of Project: Inverse Problem in Structures"
   company = "Dian Group, Huazhong University of Science and Technology"
   company_url = ""
   location = "California, United States"
   date_start = "2019-08-03"
   date_end = "2019-09-24"
   description = """
-  This is a
-  Responsibilities include:
+  Inverse problem in structures is to **rebuild** the physical situation of a damaged structure throught the collected data, which covers the techniques of Finite Element Analysis and Deep Learning. In the summer research, we take cantilever as a research target.
+
+  My responsibilities include:
   
-  * aaa
-  * bbb
-  * ccc
+  * Adopt FEA method to simulate the physical principles of cantilever.
+  * Use tensorflow to build deep neural network and make prediction of the initial status of the cantilever.
+  * Make temperature prediction of bridge based on **DSP methods** and machine learning. (Paper being prepared for Applied Science)
   """
 [[experience]]
   title = "Backbone of Project: Directory Sharing Security Agent Service"
@@ -55,11 +57,6 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-12-15"
   description = """
-  This is a
-  Responsibilities include:
   
-  * aaa
-  * bbb
-  * ccc
   """
 +++
