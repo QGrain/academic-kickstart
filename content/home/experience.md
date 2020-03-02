@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * ccc
   """
 [[experience]]
-  title = "Research Intern of Summer Project: Smart City"
+  title = "Research Intern of Project: Smart City"
   company = "Dian Group, Huazhong University of Science and Technology"
   company_url = ""
   location = "California, United States"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   * ccc
   """
 [[experience]]
-  title = "Backbone of Huawei Project: Directory Sharing Security Agent Service"
+  title = "Backbone of Project: Directory Sharing Security Agent Service"
   company = "Dian Group, Huazhong University of Science and Technology"
   company_url = ""
   location = "Wuhan, China"
