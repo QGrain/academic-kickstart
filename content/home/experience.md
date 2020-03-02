@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Backbone of Project: Cyber Security"
+  company = "Dian Group, Huazhong University of Science and Technology"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Wuhan, China"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
+  This is a
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * aaa
+  * bbb
+  * ccc
   """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern of Summer Project: Smart City"
+  company = "Dian Group, Huazhong University of Science and Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "California, United States"
+  date_start = "2019-08-03"
+  date_end = "2019-09-24"
+  description = """
+  This is a
+  Responsibilities include:
+  
+  * aaa
+  * bbb
+  * ccc
+  """
+[[experience]]
+  title = "Backbone of Huawei Project: Directory Sharing Security Agent Service"
+  company = "Dian Group, Huazhong University of Science and Technology"
+  company_url = ""
+  location = "Wuhan, China"
+  date_start = "2018-06-01"
+  date_end = "2018-12-15"
+  description = """
+  This is a
+  Responsibilities include:
+  
+  * aaa
+  * bbb
+  * ccc
+  """
 +++

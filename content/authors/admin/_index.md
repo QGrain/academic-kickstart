@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include Cyber Security, Software Defined Networking and Machine Learning.
 
 interests:
-- IDS/IPS
+- Intrusion Detection/Prevention
 - Network Traffic Detection
-- ML & DL
+- Deep Learning
 - Reverse Engineering
 
 education:
@@ -67,4 +67,4 @@ user_groups:
 
 Zhiyu Zhang is a bachelor candidate in School of Electronic Information and Communications, Huazhong University of Science and Technology. Now he works as the Cyber Security Group member of [Dian Group](https://dian.org.cn/) (Dian Group Official ID: D637), advised by Guohui Zhong, [Chengwei Zhang](http://cloud.eic.hust.edu.cn:8084/~zhangcw/), [Yayu Gao](http://cloud.eic.hust.edu.cn:8084/~yayugao/) and [Xiaojun Hei](http://cloud.eic.hust.edu.cn:8084/~heixj).
 
-His Research interests include
+His Research interests lie within Cyber Security, particularly in ATT&CK based Analysis, Reverse Engineering and Intrusion Detection by Network Traffic.
