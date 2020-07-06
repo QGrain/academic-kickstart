@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Backbone of Project: Cyber Security"
-  company = "Dian Group, Huazhong University of Science and Technology"
+  company = "Dian Group, HUST. Advisor: Prof. Guohui Zhong & Chengwei Zhang"
   company_url = ""
   location = "Wuhan, China"
   date_start = "2019-09-01"
@@ -29,13 +29,29 @@ date_format = "Jan 2006"
 
   My responsibilities include:
   
-  * Design and establish a fast recoverable cyber range for the group. (Paper has been submitted to **ICTC 2020**)
+  * Design and establish a fast recoverable cyber range for the group. (Oral Presentation on **ICTC 2020**)
   * Reverse viruses and figure out their executing priciples for the following detection.
   * Use Convolutional Neural Network to process binary images of traffic of DDoS, nmap and eternal-blue and detect them under framework of Snort and Security Onion.
   """
+  [[experience]]
+  title = "Backbone of Project: Online NS-3 Platform for Network Protocol Learners"
+  company = "Course Design, HUST. Advisor: Prof. Xiaojun Hei"
+  company_url = ""
+  location = "Wuhan, China"
+  date_start = "2020-01-21"
+  date_end = "2020-03-01"
+  description = """
+  This is a Enterprise-level project aiming at providing secure agent service for Samba directory sharing, which covers the techniques of **Windows Driver Development**, Linux Kernel, advanced TCP/IP.
+
+  My responsibilities include:
+
+  * Develop windows network driver according to Microsoft WDK API.
+  * Parse samba 2 protocol to dump the files during the directory sharing.
+  * Improve performance by setting up LVS load balancing servers.
+  """
 [[experience]]
   title = "Research Intern of Project: Inverse Problem in Structures"
-  company = "Dian Group, Huazhong University of Science and Technology"
+  company = "Smart City Lab, UCB. Advisor: Prof. Shaofan Li"
   company_url = ""
   location = "California, United States"
   date_start = "2019-08-03"
@@ -51,7 +67,7 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Backbone of Project: Directory Sharing Security Agent Service"
-  company = "Dian Group, Huazhong University of Science and Technology"
+  company = "Dian Group, HUST. Advisor: Prof. Guohui Zhong"
   company_url = ""
   location = "Wuhan, China"
   date_start = "2018-06-01"
