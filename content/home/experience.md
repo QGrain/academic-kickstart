@@ -18,36 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Backbone of Project: Cyber Security"
+  title = "Backbone of Project: Research of IDS/IPS for APTs"
   company = "Dian Group, HUST. Advisor: Prof. Guohui Zhong & Chengwei Zhang"
   company_url = ""
   location = "Wuhan, China"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  This is a national project aiming at the research of Intrusion Detection and Prevention Systems, which covers the techniques of Reverse Engineering, DPDK, **ATT&CK**, **Network Traffic Detection** and Deep Learning.
+  This is a national project aiming at the research of Intrusion Detection and Prevention Systems, which covers the techniques of Reverse Engineering, Netmap, **ATT&CK**, **Network Traffic Detection** and Deep Learning.
 
   My responsibilities include:
   
-  * Design and establish a fast recoverable cyber range for the group. (Oral Presentation on **ICTC 2020**)
-  * Reverse viruses and figure out their executing priciples for the following detection.
-  * Use Convolutional Neural Network to process binary images of traffic of DDoS, nmap and eternal-blue and detect them under framework of Snort and Security Onion.
+  * Propose a Fast Recoverable System for Cyber Range in order to conduct destructive experiments effciently. (Oral presentation on IEEE ICTC 2020)
+  * Analyze the execution principles of malware based on reverse engineering | e.g. WannaCry would scan 445 port of the public IP and send payload by overflow of SMB I.
+  * Based on the analysis of malware principles, leveraged the spatial and timing features to detect malicious traffc with pattern matching and deep learning | e.g. We managed to detect almost 100% nmap scan. (Submitted to Cybersecurity 2020)
   """
   [[experience]]
-  title = "Backbone of Project: Online NS-3 Platform for Network Protocol Learners"
-  company = "Course Design, HUST. Advisor: Prof. Xiaojun Hei"
+  title = "Backbone of Project: Online NS-3 Platform for Network Learners"
+  company = "SeedClass, HUST. Advisor: Prof. Xiaojun Hei"
   company_url = ""
   location = "Wuhan, China"
   date_start = "2020-01-21"
   date_end = "2020-03-01"
   description = """
-  This is a Enterprise-level project aiming at providing secure agent service for Samba directory sharing, which covers the techniques of **Windows Driver Development**, Linux Kernel, advanced TCP/IP.
+  This is a Course Design aiming at providing convenient service of Online NS-3 environment and tutorials to the beginners and researchers, which covers the techniques of **Concurrency Process**, Nodejs-Vue and NS-3 **Docker Cloud**.
 
   My responsibilities include:
 
-  * Develop windows network driver according to Microsoft WDK API.
-  * Parse samba 2 protocol to dump the files during the directory sharing.
-  * Improve performance by setting up LVS load balancing servers.
+  * Propose and implement an online NS-3 server with Vue, Nodejs and NS-3 engine, as the installation and conguration of NS-3 are complicated.
+  * Provide tutorial pages and relevant experiment guidelines on the Web UI.
+  * Adopt polling queue to improve the effciency of NS-3 compiling, effciency improved around 4x. (Submitted to SIMUtools 2020)
   """
 [[experience]]
   title = "Research Intern of Project: Inverse Problem in Structures"
