@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   * Adopt polling queue to improve the effciency of NS-3 compiling, effciency improved around 4x. (Submitted to SIMUtools 2020)
   """
 [[experience]]
-  title = "Research Intern of Project: Inverse Problem in Structures"
+  title = "Research Intern of Project: Inverse Problem of Structures with Deep Learning"
   company = "Smart City Lab, UCB. Advisor: Prof. Shaofan Li"
   company_url = ""
   location = "California, United States"

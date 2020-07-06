@@ -13,6 +13,4 @@ header:
   caption: "header caption 1"
   image: "CyFRS.png"
 ---
-header:
-  caption: "header caption 2"
-  image: "CyFRS.png"
+To be completed...
