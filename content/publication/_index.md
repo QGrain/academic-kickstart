@@ -10,6 +10,9 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "header caption 1"
+  image: "CyFRS.png"
 ---
+header:
+  caption: "header caption 2"
+  image: "CyFRS.png"
