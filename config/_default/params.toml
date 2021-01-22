@@ -264,3 +264,15 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+
+############################
+## Content Management System
+############################
+[cms]
+  # See https://wowchemy.com/docs/install/
+  netlify_cms = true
+
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
