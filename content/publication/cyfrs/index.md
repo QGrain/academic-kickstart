@@ -3,11 +3,11 @@
 
 title: "CyFRS: A Fast Recoverable System for Cyber Range Based on Real Network Environment"
 authors: [Zhiyu Zhang, Guohang Lu, Chengwei Zhang, Yayu Gao, Yajun Wu, Guohui Zhong]
-date: 2021-01-22T23:17:17+08:00
+date: 2020-05-31T00:00:00+08:00
 doi: "10.1109/ICTC49638.2020.9123273"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-31T00:00:00+08:00
+publishDate: 2020-06-31T00:00:00+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: "ICTC"
 abstract: "In order to solve the problem that viruses with virtual environment detection mechanism cannot be in a virtual network environment, and in a real network environment, cyber experiments may not be performed repeatedly because of the destructive nature of some viruses. This paper proposes a fast recoverable system of cyber range based on a real network (CyFRS). We utilize the Windows and Linux dual system as the primary environment of the cyber range, implement partition backup and recovery based on Linux dd command, and provide a remote image server to guarantee the reliability of the mirror service. Eventually, we achieve the recovery of a damaged system within 4 minutes."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In order to solve the problem that viruses with virtual environment detection mechanism cannot be examined in a virtual network environment, while in real network environment, experiments may not be performed repeatedly because of the destructive nature of some viruses. We proposed a fast recoverable physical cyber range with recovery time at around 4 mins"
 
 tags: []
 categories: []

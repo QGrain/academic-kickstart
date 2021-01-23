@@ -24,7 +24,7 @@ interests:
 - Intrusion Detection/Prevention
 - Network Traffic Detection
 - Deep Learning
-- Reverse Engineering
+- Algorithm & CTF
 
 education:
   courses:
@@ -40,20 +40,20 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: fa-envelope
+- icon: envelope
   icon_pack: fas
-  link: "mailto:zhiyuzhang@hust.edu.cn" #'#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "#contact" #'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/
+  link: https://scholar.google.com.hk/citations?user=px8_S6IAAAAJ&hl=zh-CN&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/QGrain
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Zhiyu Zhang is a bachelor candidate in School of Electronic Information and Communications, Huazhong University of Science and Technology. Now he works as the Cyber Security Group member of [Dian Group](https://dian.org.cn/) (Dian Group Official ID: D637), advised by Guohui Zhong, [Chengwei Zhang](http://cloud.eic.hust.edu.cn:8084/~zhangcw/), [Yayu Gao](http://cloud.eic.hust.edu.cn:8084/~yayugao/) and [Xiaojun Hei](http://cloud.eic.hust.edu.cn:8084/~heixj).
+Zhiyu Zhang is a bachelor candidate in School of Electronic Information and Communications, Huazhong University of Science and Technology. Now he works as the Cyber Security Group member of [Dian Group](https://dian.org.cn/) (Dian Group Official ID: D637), advised by [Guohui Zhong](), [Chengwei Zhang](http://cloud.eic.hust.edu.cn:8084/~zhangcw/), [Yayu Gao](http://cloud.eic.hust.edu.cn:8084/~yayugao/) and [Xiaojun Hei](http://cloud.eic.hust.edu.cn:8084/~heixj).
 
 His Research interests lie within Cyber Security, particularly in ATT&CK based Analysis, Reverse Engineering and Intrusion Detection by Network Traffic. Besides, he is also widely interested in IOT and AI Security.
