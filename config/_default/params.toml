@@ -81,7 +81,7 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zhiyuzhang@hust.edu.cn"
+email = "zhangzhiyu1999@iie.ac.cn"
 # phone = "+86-189-7122-9081"
 
 # Address
@@ -106,7 +106,7 @@ email = "zhiyuzhang@hust.edu.cn"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:zhiyuzhang1999@163.com?call"},
-  # {icon = "fa-envelope", icon_pack = "fas", name = "zhiyuzhang@hust.edu.cn", link = "mailto:zhiyuzhang@hust.edu.cn"},
+  # {icon = "fa-envelope", icon_pack = "fas", name = "zhangzhiyu1999@iie.ac.cn", link = "mailto:zhangzhiyu1999@iie.ac.cn"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
